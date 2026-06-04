@@ -5,7 +5,7 @@ Brain stimulation and network controllability analysis using MATLAB and Julia
 
 The analysis consists of a two-stage workflow combining Julia and MATLAB implementations.
 
-### 1. Julia simulation (TMS model)
+### 1. Julia simulation
 
 The first step is to run the Julia simulation code:
 
