@@ -2,9 +2,6 @@ This repository contains the MATLAB and Julia code and datasets for the paper ti
 
 The manuscript is currently under review (revised submission) at Heliyon.
 
-# brain-controllability-stimulation
-Brain stimulation and network controllability analysis using MATLAB and Julia
-
 ## Computational Pipeline
 
 The analysis consists of a two-stage workflow combining Julia and MATLAB implementations.
