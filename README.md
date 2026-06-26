@@ -1,4 +1,4 @@
-This repository contains the MATLAB and Julia code and datasets for the paper titled "Exploring the Relationship Between Controllability Criteria and Brain Stimulation Effects Using a Next-Generation Network Model" by Tahereh Niyazmand, Marzieh Kamali, Farid Sheikholeslam, and Farzaneh Shayegh.
+This repository contains the MATLAB and Julia code and datasets for the paper by Tahereh Niyazmand, Marzieh Kamali, Farid Sheikholeslam, and Farzaneh Shayegh.
 
 
 ## Computational Pipeline
